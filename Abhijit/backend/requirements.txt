@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+pydantic
+nbconvert
+ipykernel
+jinja2
